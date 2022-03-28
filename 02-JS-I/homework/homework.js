@@ -29,7 +29,7 @@ function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
   const cadena="hola cadena";
-  return cadena
+  return cadena;
   
 }
 
