@@ -62,7 +62,7 @@ function filter(array) {
       Matriz.push(array[a])
     }
   }
-  return nuevoArray;
+  return Matriz;
 }
 
 // No modificar nada debajo de esta línea
