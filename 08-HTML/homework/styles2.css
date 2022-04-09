@@ -1,7 +1,6 @@
 .fijo {
   position: fixed;
-bottom: 10px;
- 
+  bottom: 10px;
   right: 0;
   width: 100px;
   background-color: white;
@@ -56,20 +55,6 @@ h1 {
   max-width: 800px;
   overflow: auto;
   height: auto;
- 
-}
-
-.pie {
-  font-size: small;
-  font-style: italic;
-  margin-left: 150px;
-  color: blue;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  height: 30px;
-  background-color: white;
-  width: 100%;
 }
 
 .imagen {
@@ -79,11 +64,7 @@ h1 {
 
   margin: 0 0 1em 1em;
 }
-.spanId {
-  text-align: left;
-  font-size: xx-large;
-  color: blue;
-}
+
 .divclass {
   max-width: 800px;
   height: auto;
@@ -95,27 +76,4 @@ h1 {
   border-color: bisque;
   padding: 20px;
   text-align: center;
-}
-#thirdDiv {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  color: darkgreen;
-  font-size: x-large;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px;
-}
-.fondo {
-  /*background-image: url("https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/thumbimg_4846097045thumbejpg.jpg");
- */
-  background-image: url("https://cdn.pixabay.com/photo/2014/04/02/14/08/mouse-306274_960_720.png");
-  background-repeat: no-repeat;
-  background-size: 50rem;
-  background-position-x: center;
-  background-position-y: center;
 }
