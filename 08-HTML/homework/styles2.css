@@ -1,0 +1,121 @@
+.fijo {
+  position: fixed;
+bottom: 10px;
+ 
+  right: 0;
+  width: 100px;
+  background-color: white;
+  font-size: 35px;
+}
+h1 {
+  color: blue;
+}
+.titulo {
+  text-align: center;
+  font-size: medium;
+  color: blue;
+  border-style: solid;
+  border-color: brown;
+  height: fit-content;
+  max-width: 800px;
+}
+.h2 {
+  text-align: center;
+  color: cornflowerblue;
+}
+.DescPersonal {
+  max-width: 800px;
+  font-style: normal;
+  font-size: large;
+  margin: 15px 15px 15px 15px;
+  text-align: justify;
+}
+.Educacion {
+  max-width: 800px;
+  font-style: normal;
+  font-size: large;
+  margin: 15px 15px 15px 15px;
+  text-align: justify;
+}
+
+.Experiencias {
+  max-width: 800px;
+  font-style: normal;
+  font-size: large;
+  margin: 15px 15px 15px 15px;
+  text-align: justify;
+}
+.Skills {
+  max-width: 800px;
+  font-style: normal;
+  font-size: large;
+  margin: 15px 15px 15px 15px;
+  text-align: justify;
+}
+.imagen {
+  max-width: 800px;
+  overflow: auto;
+  height: auto;
+ 
+}
+
+.pie {
+  font-size: small;
+  font-style: italic;
+  margin-left: 150px;
+  color: blue;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 30px;
+  background-color: white;
+  width: 100%;
+}
+
+.imagen {
+  overflow: auto;
+  height: 150px;
+  width: 200px;
+
+  margin: 0 0 1em 1em;
+}
+.spanId {
+  text-align: left;
+  font-size: xx-large;
+  color: blue;
+}
+.divclass {
+  max-width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: groove;
+  border-radius: 5%;
+  border-width: 20px;
+  border-color: bisque;
+  padding: 20px;
+  text-align: center;
+}
+#thirdDiv {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  color: darkgreen;
+  font-size: x-large;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+}
+.fondo {
+  /*background-image: url("https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/thumbimg_4846097045thumbejpg.jpg");
+ */
+  background-image: url("https://cdn.pixabay.com/photo/2014/04/02/14/08/mouse-306274_960_720.png");
+  background-repeat: no-repeat;
+  background-size: 50rem;
+  background-position-x: center;
+  background-position-y: center;
+}
